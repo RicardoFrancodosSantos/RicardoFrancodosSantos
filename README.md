@@ -75,7 +75,34 @@ which allowed me to develop soft skills such as communication, proactivity, resi
 
 ---
 
-### 📊 GitHub Stats
+## 📈 GitHub Stats  
+
+<table>
+  <tr>
+    <td>
+      <img
+        align="left"
+        src="https://github-readme-stats.vercel.app/api?username=RicardoFrancodosSantos&theme=dark&hide_border=false&include_all_commits=true&count_private=true"
+        alt="Github stats"
+      />
+    </td>
+    <td>
+      <img
+        align="left"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=RicardoFrancodosSantos&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
+        alt="Github stats"
+      />
+    </td>
+    <td>
+      <br />
+      <img
+        align="left"
+        src="https://github-readme-streak-stats.herokuapp.com/?user=RicardoFrancodosSantos&theme=dark&hide_border=false"
+        alt="Github stats"
+      />
+    </td>
+  </tr>
+</table>
 
 
 ### GO GLOBAL OR NOTHING
