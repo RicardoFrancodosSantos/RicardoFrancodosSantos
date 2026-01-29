@@ -9,7 +9,7 @@ Hey there! I'm Ricardo Franco
 focused on building robust and scalable solutions. I have solid expertise in **React, Next.js, TypeScript,
 Node.js and PostgreSQL**, creating robust solutions that seamlessly integrate **backend, frontend, and cloud technologies**.
 
-I have over **10 years of experience in Business Analysis, Product Ownership and Functional testing**, working in complex projects into brazilian and international clients, 
+I have over **12 years of experience in Business Analysis, Product Ownership and Functional testing**, working in complex projects into brazilian and international clients, 
 which allowed me to develop soft skills such as communication, proactivity, resilience, product ownership, among many others.
 
 ---
